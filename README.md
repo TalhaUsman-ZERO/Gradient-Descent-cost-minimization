@@ -1,1 +1,1 @@
-# Gradient-Descent---cost-minimization
+# Gradient-Descent-cost-minimization
